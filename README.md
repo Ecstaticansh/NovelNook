@@ -18,4 +18,4 @@ Authentication & Authorization
 Complete CRUD for books and users
 Database integration
 API documentation (Swagger/OpenAPI)
-Integration with frontend (React/Next.js)
+Integration with frontend (React)
